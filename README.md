@@ -4,8 +4,9 @@
 ---
 ## **Features**
 ---
-- Loads and views cat images continously.
-* 'Load more' button to generate pics.
+- Loads and views thousands of different cat images.
+* Simple button to generate pics.
+- Check out the [cat image generator](https://catimagegenerator.netlify.app/) for yourself 
 ---
 ### **Getting Started**
 

@@ -2,7 +2,12 @@
 ### _Using a combination of HTML, CSS and POSTMAN to generate data from the web._
 ---
 ![cat generator page screenshot](/catgenerator.png)
----
+
+## **Tools and Tech Stack**
+- HTML
+- CSS
+- [Postman](https://www.postman.com/) 
+- Axios 
 ## **Features**
 
 - Loads and views thousands of different cat images
